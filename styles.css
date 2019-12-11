@@ -68,3 +68,8 @@ a:hover
 p{
   margin: 0;
 }
+
+article {
+    display: block;
+    padding-top: 10px;
+}
